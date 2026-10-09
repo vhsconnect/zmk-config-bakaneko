@@ -18,4 +18,4 @@
 #
 ---
 include:
-  - board: bakeneko60_go
+  - board: bakeneko60_go/nrf52840/zmk
